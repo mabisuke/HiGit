@@ -2,5 +2,7 @@
 
 int main(){
   printf("HelloGit");
+  printf("変更点");
 }
+
 
